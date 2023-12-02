@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "349748554121",
+    "project_id": "riverpod-mastery-app",
+    "storage_bucket": "riverpod-mastery-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349748554121:android:8ef06f2f25d1f13673d958",
+        "android_client_info": {
+          "package_name": "com.example.riverpod_mastery_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAS5G7BNaDmrBP4ET0pm0NYCM8zoPmrxw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
